@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(pwd /var/tmp/..)
+echo $((cd /var/tp/..) pwd)
